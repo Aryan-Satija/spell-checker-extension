@@ -1,0 +1,12 @@
+{
+    "name": "SpellGuard",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "description": "Say goodbye to typos and grammatical errors! 'SpellGuard' is your personal spell checker extension that seamlessly integrates with your writing experience.",
+    "icons": {
+        "128": "spell_check.png"
+    },
+    "action": {
+        "default_popup": "index.html"
+    }
+}
